@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pillow
+ipykernel
+ipython
+nbstripout
